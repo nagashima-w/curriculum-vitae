@@ -93,7 +93,50 @@
   - エンジニアコミュニティでの出会いや気づきが自分を大きく成長させてくれた
   - 自分より圧倒的に強いエンジニアであるその人たちに返せるようなものはないが、コミュニティ活動を通じた恩送りを続けていきたい
 
-## 職務経歴
+## Career
+
+### UPWARD株式会社
+
+- フィールドセールス向けSaaSベンダー
+- 従業員数 40名
+- 資本金 3億5000万円
+- 役職 一般社員
+- 所属 2019/04 ～ 現在
+
+#### 担当業務
+
+- SaaSインフラ基盤構築(3ヵ月)
+  - 外注業者が構築を進めていたものを引継ぎ、一部機能の実装
+    - 実装したもの
+      - Fargateサービスとタスク
+      - Fargateで動作させるコンテナアプリケーションのパイプライン
+        - GitHubへPushした際に以下のフローで動作する
+          - Pushされたリポジトリに応じたCodePipelineが起動
+          - CodeBuildにてdocker buildしECRにPush
+          - ECRにPushされたことを検知してCodePipelineが起動
+          - CodePipelineでFargateへデプロイ
+      - GitHubへのPull-Request実行時にUnit Testを実行するようなパイプライン整備
+  - フルマネージドのAWS基盤は未経験だったため設計内容の確認や使用されているサービスのキャッチアップから入ったが、3週間程度でコード化されているインフラへのリソース追加を開始
+    - 現在はベータリリースが完了しているので、発生したissueに応じた改修やエラー対応を担当している
+- 技術スタック
+  - CloudFormation
+  - Fargate
+  - ECR
+  - Application Load Balancer
+  - Step Functions
+  - CloudFront
+  - WAF
+  - S3
+  - Elasticache Redis
+  - RDS Aurora PostgreSQL
+  - CodeBuild
+  - CodeDeploy
+  - CodePipeline
+  - VPC Peering
+  - Cloudwatch Logs
+  - CloudTrail
+  - GitHub
+  - Datadog
 
 ### 株式会社コサット
 
@@ -101,7 +144,7 @@
 - 従業員数 20名
 - 資本金 5000万円
 - 役職 一般社員
-- 所属 2018/05 〜 現在
+- 所属 2018/05 〜 2019/03
 
 #### プロジェクト
 
