@@ -233,7 +233,7 @@ ____
   - RedHat Enterprise Linux 7.4
   - MongoDB 3.6
   - td-agent 3.1 (Fluentd 1.0)
-  - Ansible
+  - ZABBIX
   - ShellScript
 
 - 業務内容
