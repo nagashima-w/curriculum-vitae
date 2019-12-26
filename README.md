@@ -2,16 +2,15 @@
 
 ## Basic Information
 
-|Key|Value|
-|:-:|:-:|
-|Name|永嶋 渉 / Wataru Nagashima|
-|GitHub|[@nagashima-w](https://github.com/nagashima-w)|
-|Blog|[ゆとりエンジニアのアレ](https://nagashi-ma-w.hatenablog.com/)|
-|SpeakerDeck|[My decks](https://speakerdeck.com/nagashimaw)|
-|Other Slides|[Google Drive](https://drive.google.com/drive/folders/1w87ajC1ryD0-auJliHs_v2piqdiR8yz5)|
-|Qiita|[@nagashi_ma_w](https://qiita.com/nagashi_ma_w)|
-|Podcast|[たのしいWorks](https://anchor.fm/tanoshii-works)|
-|Community|[エンジニアの登壇を応援する会](https://portal.engineers-lt.info/)|
+|     Key      |                                          Value                                           |
+| :----------: | :--------------------------------------------------------------------------------------: |
+|     Name     |                                永嶋渉 / Wataru Nagashima                                 |
+|    GitHub    |                      [@nagashima-w](https://github.com/nagashima-w)                      |
+|     Blog     |              [ゆとりエンジニアのアレ](https://nagashi-ma-w.hatenablog.com/)              |
+| SpeakerDeck  |                      [My decks](https://speakerdeck.com/nagashimaw)                      |
+| Other Slides | [Google Drive](https://drive.google.com/drive/folders/1w87ajC1ryD0-auJliHs_v2piqdiR8yz5) |
+|    Qiita     |                     [@nagashi_ma_w](https://qiita.com/nagashi_ma_w)                      |
+|   Podcast    |                    [たのしいWorks](https://anchor.fm/tanoshii-works)                     |
 
 ## Skills
 
@@ -30,14 +29,31 @@
   - S3
   - Certificate Manager
   - Others.....
+- Google Cloud Platform
+  - Compute Engine
+  - Cloud Storage
+  - Cloud LoadBalancer
+  - Cloud Functions
+  - Cloud Endpoints
+  - Cloud Run
+  - Kubernetes Engine
+  - Managed SSL Certificate
+  - Cloud DNS
+  - Stackdriver
 - Microsoft Azure
   - Virtual Machine
+  - Database for MySQL
+  - Blob Storage
+  - Container Registory
+  - Cache for Redis
+  - Virtual Network
   - VPN
   - Azure Backup
 - Server OS
   - Windows Server 2016 /2012R2
   - Red Hat Enterprise Linux 7.x
 - Middleware
+  - Nginx
   - Active Directory
   - Active Directory Federation Service
   - Active Directory Certificate Services
@@ -50,13 +66,15 @@
   - YAMAHA
 - Tools and Others
   - GitHub
+  - Terraform
   - Datadog
   - Slack
   - Microsoft Teams
-  - VSCode
+  - VS Code
   - Docker
+  - Nvidia-Container-Toolkits
   - G Suite
-  - yaml(CloudFormation template)
+  - Let's Encrypt
 
 ## Self PR
 
@@ -68,29 +86,30 @@
   - クライアント端末(Windows/Mac/Linux)
   - 物理サーバー(Windows/Linux)
   - 仮想化基盤(Hyper-V/ESXi)
-  - パブリッククラウド(AWS/Azure)
+  - パブリッククラウド(AWS/Azure/GCP)
 - 技術的興味と好奇心
-  - 友人との個人開発やコミュニティの運営、ギークハウスへ参加し不定期に木曜日はモブワークをしている
+  - 友人との個人開発や、業務を効率化して空き時間に新たな技術について学習をしている
 - アウトプットの習慣
-  - 技術系Podcastの配信やLT登壇などを継続して行っている
+  - 技術系Podcastの配信を継続して行っている
+  - 業務でも常に自身のタスクや進捗度合いを更新しているため、上長から見える化ができていると評価していただいている
 - 新しいことに柔軟に対応できる
   - これまでの業務において知見がない技術を取り扱う機会が多く、その都度キャッチアップとアウトプットができてきている
-    - 前職ではtd-agentやMongoDB、現職ではInfrastructure as CodeやGit、AWSのサービス全般が該当
+    - td-agentやMongoDB、Infrastructure as CodeやGit、AWS、GCPのサービス全般が該当
 - 常日頃から技術的なインデックスを増やせるようにしている
   - RSS FeedやSNS、カンファレンスレポート等で流れてきた気になる内容はキーワードで検索できる程度まではその場で調べるようにしている
   - 今までのキャリアでは使ったことがない技術に触れることになる状況がほとんどだったが、この習慣があるので未経験のことでもキャッチアップを高速にできると考えている
 - サービスの本質を常に考えることができる
   - 顧客が何を求めているのか、このタスクをこなすことで顧客がどう喜ぶのか、工数を稼ぐためのタスクになっていないか、そのようなことを考えながら業務に取り組むことができる
-    - 現職でスクラム開発体制に移行してから、これらの考え方が強く身についたと考えている
+  - 顧客の求めるものに応じて、手段にこだわらず基盤構築を行うことができる
 
 ### Interest
 
 - CI/CDパイプラインを組むのが好き
   - 友人との個人開発プロジェクトではCiecleCIを用いたCI/CDパイプラインの開発と運用を担当している
 - Kubernetes
-  - やはりトレンドなので、インフラエンジニアとしては実際に触れたことはないがスキルを身に着けたい
-- Terraform
-  - IaCの経験があるとはいえ、CloudFormationのみなのでAWS以外の環境でも汎用的に使えるスキルを身に着けたい
+  - やはりトレンドなので、インフラエンジニアとしては実際の業務で触れたことはないがスキルを身に着けたい
+- Infrastructure as Code
+  - 既存の手作業をどんどんコード化し、べき等性を高めていきたい
 - サーバーレスアプリケーション開発
   - アプリケーション開発と書くと大仰かもしれないが、Lambdaでなにかしたいときに困らないスキルが欲しい
 - エンジニアリングで組織全体のパフォーマンスを向上させる
@@ -102,13 +121,107 @@
 
 ## Career
 
+### 人工知能開発企業
+
+- 人工知能に関わるソフトウェアおよびサービス開発企業
+- 従業員数
+- 資本金
+- 役職 一般社員
+- 所属 2019/09 〜 現在
+
+#### 担当業務
+
+- 人工知能を用いたWebサービスのインフラ構築(2019/10)
+  - Azure上に、人工知能を用いたWebサービスのインフラ基盤を構築した
+  - 基盤の設計自体はプロジェクト参画時に完了しており、開発環境および本番環境の構築をTerraformにて実施
+  - 変数だけを開発と本番の環境に応じて入れ替え、同じ基盤を構築することで構築作業工数の圧縮とべき等性を担保した
+
+- 技術スタック
+  - Terraform
+  - Virtual Machine
+  - Database for MySQL
+  - Blob Storage
+  - Container Registory
+  - Cache for Redis
+  - Virtual Network
+  - Nginx
+  - Docker
+  - Nvidia-Container-Toolkits
+  - CUDA Driver
+  - Let's Encrypt
+  - Route53
+
+- 社内向けプライベートパッケージリポジトリ構築(2019/10 〜 2019/11)
+  - 入社前より要望に挙がっていた、社内向けのPyPIリポジトリの構築を引き継いだ
+  - Sonatype Nexusの構築および、ストレージにはGoogle Cloud Storageを採用した
+  - 現在は要望元にてトライアル利用中で、将来的にnpm等ほかのパッケージのホスティングも視野に入っている
+
+- 技術スタック
+  - Compute Engine
+  - Cloud Storage
+  - Nginx
+  - Let's Encrypt
+
+- 人工知能開発デモサイトホスティング環境構築(2019/11)
+  - 開発者が実施した人工知能のPoCの結果をデモとしてお客様に見せるためのホスティング環境をGCP上に構築した
+  - Cloud LoadBalancerを採用し、同一ドメインながらPathに応じて表示するデモサイトを切り替える方式にて構築
+  - それまで、デモサイトを構築する時に各自がバラバラに行なっていたものも、社内のワークフローを整備してこの環境へ一本化することができた
+  - この環境構築でもTerraformを利用し、テンプレートを用意することで必要なデモサイトの追加が即座に実施できる状態を実現した
+
+- 技術スタック
+  - Terraform
+  - Cloud LoadBalancer
+  - Compute Engine
+  - Managed SSL Certificate
+  - Nginx
+  - Stackdriver Logging
+
+- オンプレミスデータセンター向け監視導入(2019/11)
+  - 今まで監視が一切行われていなかった、データセンターのGPUサーバーの監視を導入した
+  - 監視ツールを導入することで、サーバーの異常を検知できるようにした
+  - 最低限のモニタリングが行える状態を早急に実現するために、NetdataとStackdriver Loggingを採用し、ツールの選定から導入までを1週間程度で完了した
+
+- 技術スタック
+  - Netdata
+  - Stackdriver Logging
+
+- 社内Wikiツールの機能拡張(2019/12)
+  - 社内Wiki(Growi)にHackMD機能を追加した
+  - これにより、Wikiのページを複数人同時編集することができるようになり、議事録等の確認と合意がスムーズに行えるようになった
+
+- 技術スタック
+  - Docker
+  - Docker-Compose
+  - Nginx
+  - Let's Encrypt
+
+- その他
+  - デモサイトの構築を5件ほど実施
+  - Terraformコードのリファクタリング
+    - v0.11記法をv0.12記法に修正
+    - 大きすぎるテンプレートの分割
+  - 別案件のサポートでTerraformのコーディング
+    - 独自ドメインをGoogle Cloud Functionsで利用するためのコード
+  - Dockerfileに関する社内勉強会
+  - 余った時間でKubernetes学習
+
+- 技術スタック
+  - Terraform
+  - GitHub
+  - Docker
+  - Cloud Functions
+  - Cloud Endpoints
+  - Cloud Run
+  - Kubernetes Engine
+  - Cloud DNS
+
 ### UPWARD株式会社
 
 - フィールドセールス向けSaaSベンダー
 - 従業員数 40名
 - 資本金 3億5000万円
 - 役職 一般社員
-- 所属 2019/04 ～ 現在
+- 所属 2019/04 ～ 2019/09
 
 #### 担当業務
 
