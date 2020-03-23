@@ -69,19 +69,20 @@
   - Terraform
   - Datadog
   - Slack
-  - Microsoft Teams
   - VS Code
   - Docker
-  - Nvidia-Container-Toolkits
+  - NVIDIA GPU Driver
   - G Suite
   - Let's Encrypt
+  - GitHub Actions
+  - Circle CI
 
 ## Self PR
 
 ### Strong Point
 
 - Infrastructure as Codeの経験
-  - CloudFormationを用いた宣言的なインフラ構成管理の経験
+  - Terraform/CloudFormationを用いた宣言的なインフラ構成管理の経験
 - OSが動作する環境の一通りの経験がある
   - クライアント端末(Windows/Mac/Linux)
   - 物理サーバー(Windows/Linux)
