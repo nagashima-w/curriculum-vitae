@@ -16,6 +16,9 @@
 
 ### Infrastructure
 
+<details>
+<summary>Details</summary>
+
 - Amazon Web Services
   - CloudFormation
   - ECR
@@ -80,9 +83,14 @@
   - GitHub Actions
   - Circle CI
 
+</details>
+
 ## Self PR
 
 ### Strong Point
+
+<details>
+<summary>Details</summary>
 
 - Infrastructure as Codeの経験
   - Terraform/CloudFormationを用いた宣言的なインフラ構成管理の経験
@@ -106,7 +114,12 @@
   - 顧客が何を求めているのか、このタスクをこなすことで顧客がどう喜ぶのか、工数を稼ぐためのタスクになっていないか、そのようなことを考えながら業務に取り組むことができる
   - 顧客の求めるものに応じて、手段にこだわらず基盤構築を行うことができる
 
+</details>
+
 ### Interest
+
+<details>
+<summary>Details</summary>
 
 - CI/CDパイプラインを組むのが好き
   - 友人との個人開発プロジェクトではCiecleCIを用いたCI/CDパイプラインの開発と運用を担当している
@@ -123,9 +136,14 @@
   - エンジニアコミュニティでの出会いや気づきが自分を大きく成長させてくれた
   - 自分より圧倒的に強いエンジニアであるその人たちに返せるようなものはないが、その代わりにコミュニティ活動を通じて恩送りを続けていきたい
 
+</details>
+
 ## Career
 
 ### 人工知能開発企業
+
+<details>
+<summary>Details</summary>
 
 - 人工知能に関わるソフトウェアおよびサービス開発企業
 - 従業員数
@@ -277,7 +295,12 @@
   - Kubernetes Engine
   - Cloud DNS
 
+</details>
+
 ### UPWARD株式会社
+
+<details>
+<summary>Details</summary>
 
 - フィールドセールス向けSaaSベンダー
 - 従業員数 40名
@@ -332,9 +355,12 @@
   - GitHub
   - Datadog
 
-____
+</details>
 
 ### 株式会社コサット
+
+<details>
+<summary>Details</summary>
 
 - エンタープライズ向け受託開発企業
 - 従業員数 20名
@@ -413,9 +439,12 @@ ____
   - ZABBIX3.4
   - ShellScript
 
-____
+</details>
 
 ### 株式会社ヴィズリアデザイン
+
+<details>
+<summary>Details</summary>
 
 - システムエンジニアリングサービス企業
 - 従業員数 80名 (当時)
@@ -504,9 +533,12 @@ ____
     - 定時監視業務
     - OJTマニュアル作成
 
-____
+</details>
 
 ### IT業界以前
+
+<details>
+<summary>Details</summary>
 
 - イーモバイルショップ
   - 所属 2013/12 〜 2014/02
@@ -517,3 +549,5 @@ ____
 
 - 通信回線、モバイル端末等の店頭販売 (2年4ヶ月)
   - 家電量販店および携帯電話ショップの店頭にてお客様への説明、販売、アフターサポートなどに従事した
+
+</details>
