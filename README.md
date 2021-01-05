@@ -39,6 +39,7 @@
   - Cloud Functions
   - Cloud Endpoints
   - Cloud Run
+  - Cloud SQL
   - Container Registry
   - Kubernetes Engine
   - Managed SSL Certificate
@@ -56,6 +57,7 @@
 - Server OS
   - Windows Server 2016 /2012R2
   - Red Hat Enterprise Linux 7.x
+  - Ubuntu 16.04 / 18.04  
 - Middleware
   - Nginx
   - Active Directory
@@ -71,17 +73,23 @@
 - Container
   - Docker
   - Docker-Compose
-- Tools and Others
-  - GitHub
-  - Terraform
-  - Datadog
-  - Slack
-  - VS Code
-  - NVIDIA GPU Driver
-  - G Suite
-  - Let's Encrypt
-  - GitHub Actions
-  - Circle CI
+
+</details>
+
+### Tools and Others
+
+<details>
+<summary>Details</summary>
+
+- GitHub
+- Terraform
+- Datadog
+- VS Code
+- NVIDIA GPU Driver
+- G Suite
+- Let's Encrypt
+- GitHub Actions
+- Circle CI
 
 </details>
 
