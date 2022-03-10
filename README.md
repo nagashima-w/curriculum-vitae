@@ -94,7 +94,7 @@
 - Let's Encrypt
 - GitHub Actions
 - Circle CI
-- Engineering Manage(Junior)
+- Engineering Manage(a little)
 
 </details>
 
