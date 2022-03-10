@@ -6,11 +6,10 @@
 | :----------: | :--------------------------------------------------------------------------------------: |
 |     Name     |                                永嶋渉 / Wataru Nagashima                                 |
 |    GitHub    |                      [@nagashima-w](https://github.com/nagashima-w)                      |
-|     Blog     |              [ゆとりエンジニアのアレ](https://nagashi-ma-w.hatenablog.com/)              |
+|     Blog     |              [なんかいい感じのタイトル](https://nagashi-ma-w.hatenablog.com/)              |
 | SpeakerDeck  |                      [My decks](https://speakerdeck.com/nagashimaw)                      |
 | Other Slides | [Google Drive](https://drive.google.com/drive/folders/1w87ajC1ryD0-auJliHs_v2piqdiR8yz5) |
 |    Qiita     |                     [@nagashi_ma_w](https://qiita.com/nagashi_ma_w)                      |
-|   Podcast    |                    [たのしいWorks](https://anchor.fm/tanoshii-works)                     |
 
 ## Skills
 
@@ -40,11 +39,16 @@
   - Cloud Endpoints
   - Cloud Run
   - Cloud SQL
+  - Cloud Firestore
   - Container Registry
+  - Artifact Registry
   - Kubernetes Engine
   - Managed SSL Certificate
   - Cloud DNS
-  - Stackdriver
+  - Cloud Monitoring
+  - Cloud Logging
+  - Workload Identity Integration
+  - Identity Aware Proxy
 - Microsoft Azure
   - Virtual Machine
   - Database for MySQL
@@ -57,7 +61,7 @@
 - Server OS
   - Windows Server 2016 /2012R2
   - Red Hat Enterprise Linux 7.x
-  - Ubuntu 16.04 / 18.04  
+  - Ubuntu 16.04 / 18.04 / 20.04
 - Middleware
   - Nginx
   - Active Directory
@@ -90,6 +94,7 @@
 - Let's Encrypt
 - GitHub Actions
 - Circle CI
+- Engineering Manage(Junior)
 
 </details>
 
@@ -121,6 +126,9 @@
 - サービスの本質を常に考えることができる
   - 顧客が何を求めているのか、このタスクをこなすことで顧客がどう喜ぶのか、工数を稼ぐためのタスクになっていないか、そのようなことを考えながら業務に取り組むことができる
   - 顧客の求めるものに応じて、手段にこだわらず基盤構築を行うことができる
+- チームビルディング経験
+  - 2人だったチームから退職者が出てしまい、1人チームになってしまったが、その後採用活動やチームの行動指針の策定、チームメンバー入社後のオンボーディングを実施してチームの立ち上げをした
+  - チーム内で定期的な振り返りを行う文化を定着させ、常に成長に目を向けることができるチームを作ることができたと自負している
 
 </details>
 
@@ -140,13 +148,18 @@
 - エンジニアリングで組織全体のパフォーマンスを向上させる
   - 既存の価値を増やしたり、新しい価値を生み出したりする時間を多くとれるような動きをしたい
   - IT以外の分野においても技術の力で効率化できるところがたくさんあると思うので、そういうところでも同じような取り組みをしたい
-- エンジニアコミュニティでの活動
-  - エンジニアコミュニティでの出会いや気づきが自分を大きく成長させてくれた
-  - 自分より圧倒的に強いエンジニアであるその人たちに返せるようなものはないが、その代わりにコミュニティ活動を通じて恩送りを続けていきたい
+- マネジメント
+  - 2022/01からリーダー職となり小規模チームのマネジメントを始めたが、ちょっと楽しく感じ始めている
 
 </details>
 
 ## Career
+
+※ToDo：2021以降にやったことはそのうち書く
+
+- チーム立ち上げ
+- デジタルツイン的シミュレーター基盤の構築
+- 社内サーバー向け脆弱性スキャナー導入
 
 ### 人工知能開発企業
 
@@ -161,7 +174,7 @@
 
 #### 担当業務
 
-##### 歩様解析デモアプリのインフラ構築(2020/10～2020/11)
+##### 動画解析デモアプリのインフラ構築(2020/10～2020/11)
 
 - 人工知能による推論を組み込む前提のアプリのプロトタイプとして、お客様とアプリのイメージをすり合わせるためのwebサービスのインフラを担当
 - 基盤の設計および構築、ドキュメント整備を担当
@@ -268,7 +281,7 @@
   - Stackdriver
   - Terraform
 
-##### 機械学習基盤再構築プロジェクト(2020/02~)
+##### 機械学習基盤再構築ト(2020/02~)
 
 - オンプレミスの機械学習基盤の改善タスクに着手
 - 古いOSやGPUドライバーのバージョンアップや、AI開発者向けにDocker利用のサポート等を継続
