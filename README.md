@@ -79,7 +79,7 @@
 
 - Windows Server 2012R2 / 2016 /2029
 - Red Hat Enterprise Linux 7.x
-- CentOS 7
+- CentOS 7.x
 - Ubuntu 16.04 / 18.04 / 20.04 / 22.04
 
 </details>
