@@ -191,7 +191,7 @@
 
 # Career
 
-## AIベンダー（現職）
+## ギリア株式会社
 
 <details>
 <summary>Details</summary>
