@@ -7,15 +7,11 @@
 |     Name     |                                永嶋渉 / Wataru Nagashima                                 |
 |    GitHub    |                      [@nagashima-w](https://github.com/nagashima-w)                      |
 |     Blog     |              [なんかいい感じのタイトル](https://nagashi-ma-w.hatenablog.com/)              |
-| SpeakerDeck  |                      [My decks](https://speakerdeck.com/nagashimaw)                      |
-|    Qiita     |                     [@nagashi_ma_w](https://qiita.com/nagashi_ma_w)                      |
 
 # 自己PR
 
 ## 強み
 
-<details>
-<summary>Details</summary>
 
 - Infrastructure as Codeの経験
   - Terraform/CloudFormationを用いた宣言的なインフラ構成管理の経験
@@ -24,8 +20,6 @@
   - 物理サーバー(Windows/Linux)
   - 仮想化基盤(Hyper-V/ESXi)
   - パブリッククラウド(AWS/Azure/Google Cloud)
-- 技術的興味と好奇心
-  - 新技術を習得するための研究開発プロジェクトの企画や主導を行っている
 - 新しいことに柔軟に対応できる
   - これまでの業務において知見がない技術を取り扱う機会が多く、その都度キャッチアップとアウトプットができてきている
     - td-agentやMongoDB、Infrastructure as CodeやGit、Kubernetes、AWS、GCPのサービス全般など該当
@@ -38,109 +32,34 @@
 - チームビルディング経験
   - 担当者が自分1人の状況から、採用活動やチームの行動指針の策定、チームメンバー入社後のオンボーディングを実施してチームの立ち上げをした
   - チーム内で定期的な振り返りを行う文化を定着させ、常に成長に目を向けることができるチームを作ることができた
+  - 現職でもチームのテコ入れのためにチームビルディングを担当し、立て直した
 - マネジメント経験
   - 上記の通り立ち上げたチームにてメンバーのマネジメントを経験した
-  - 開発リソースの管理や振り返り活動のファシリテーション、メンバーの評価などを行っている
-
-</details>
+  - このチームでは組織の年間計画や予算策定も実施した
+  - テコ入れに入ったチームはソフトウェアエンジニアチームで、業務でプログラミングを実施したことがなかったがピープルマネジメントとプロジェクトマネジメントを実施した
 
 ## 興味・関心
 
-<details>
-<summary>Details</summary>
-
-- エンジニアリングで組織全体のパフォーマンスを向上させる
+- エンジニアリングでインパクトを大きくしたい
+  - ITシステムはあくまで手段として割り切り、本質的な価値を追求したい
   - 既存の価値を増やしたり、新しい価値を生み出したりする時間を多くとれるような動きをしたい
   - IT以外の分野においても技術の力で効率化できるところがたくさんあると思うので、そういうところでも同じような取り組みをしたい
 - マネジメント
-  - 2022年頃からマネジメント業務も開始
+  - 2022年頃からマネジメントも担当
   - チームになると自分1人では出せない成果が出せることと、自分のアウトプットでは評価がされないことに面白さを感じていて、このままマネジメント能力を高めていきたいと考えている
-- Infrastructure as Code
-  - 既存の手作業をどんどんコード化し、べき等性を高めていきたい
-- Kubernetes周辺エコシステム
-  - Kubernetesを効率よく、便利に活用するためのエコシステムに習熟したい
-
-</details>
-
 
 # スキル・経験
 
 ## ITインフラ関連
 
-<details>
-<summary>Amazon Web Services</summary>
+| スキル | 経験  |
+| :----------: | :----------: | 
+| Amazon Web Services | 8年 |
+| Google Cloud　| 6年 |
+| Microsoft Azure | 2年 |
+| Ubuntu | 4年 |
 
-- CloudFormation
-- ECR
-- Fargate
-- CodeBuild
-- CodeDeploy
-- CodePipeline
-- CloudFront
-- Elastic Load Balancer
-- VPC Peering
-- S3
-- Certificate Manager
-- Others.....
-
-</details>
-
-<details>
-<summary>Google Cloud</summary>
-
-- Compute Engine
-- Cloud Storage
-- Cloud LoadBalancer
-- Cloud Functions
-- Cloud Run
-- Cloud SQL
-- Cloud Firestore
-- Cloud Pub/Sub
-- Cloud Scheduler
-- Container Registry
-- Artifact Registry
-- Kubernetes Engine
-- Managed SSL Certificate
-- Cloud Domains
-- Cloud DNS
-- Cloud Monitoring
-- Cloud Logging
-- Workload Identity Integration
-- Identity Aware Proxy
-- Identity Platform
-
-</details>
-
-<details>
-<summary>Microsoft Azure</summary>
-
-- Virtual Machine
-- Database for MySQL
-- Blob Storage
-- Container Registory
-- Cache for Redis
-- Virtual Network
-- VPN
-- Azure Backup
-- Azure Kubernetes Service
-- Azure OpenAI Service
-
-</details>
-
-<details>
-<summary>Server OS</summary>
-
-- Windows Server 2012R2 / 2016 /2019
-- Red Hat Enterprise Linux 7.x
-- CentOS 7.x
-- Ubuntu 16.04 / 18.04 / 20.04 / 22.04
-
-</details>
-
-<details>
-<summary>Others</summary>
-
-- Middleware
+- 経験があるミドルウェアとネットワーク機器
   - Nginx
   - Active Directory
   - Active Directory Federation Service
@@ -160,7 +79,15 @@
   - Docker Compose
   - Kubernetes(Google Cloud / Azure)
 
-</details>
+- その他ツール等
+  - Google Workspace
+  - GitHub
+  - Terraform
+  - Datadog
+  - NVIDIA GPU Driver
+  - Let's Encrypt
+  - GitHub Actions
+  - Circle CI
 
 ## マネジメント
 
@@ -171,24 +98,6 @@
 - 開発プロセス策定
 - 振り返り活動の設計・ファシリテーション
 - チームの立て直し
-
-## ツール等
-
-<details>
-<summary>Details</summary>
-
-- Google Workspace
-- GitHub
-- Terraform
-- Datadog
-- VS Code
-- NVIDIA GPU Driver
-- Google Workspace
-- Let's Encrypt
-- GitHub Actions
-- Circle CI
-
-</details>
 
 # 経歴
 
@@ -230,6 +139,7 @@ TBD：そのうちちゃんと書く
 - プロマネ業
   - リバースプロキシのリプレース
   - オンプレミスネットワーク機器のリプレース
+  - SMS配信システム
 - 既存インフラの現状整理
   - 有識者が全員退職してしまった基盤
   - 社内でかつて活発に使われていたGoogle Cloud
@@ -240,6 +150,12 @@ TBD：そのうちちゃんと書く
   - メンバーの目標設定と評価
   - メンバーとの1on1
   - 機能追加の案件での要件定義、業務フロー定義、ステークホルダーとのコミュニケーションなど
+- 社内ツール開発
+  - AIエージェントをフル活用したgolang製アプリケーション
+  - golangはチュートリ読みながらhttpサーバーを実装したくらいの経験しかなかったが1人日程度で完成
+- データ基盤チーム
+  - ビジネス部門向けのデータ可視化
+  - データ基盤開発チームのマネジメント
 
 </details>
 
